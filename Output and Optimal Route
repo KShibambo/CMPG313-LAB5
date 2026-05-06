@@ -1,0 +1,8 @@
+--Output
+Visited Order: ['Disaneng', 'Mahikeng', 'Bakerville', 'Mmabatho', 'Slurry', 'Madibogo', 'Lichtenburg', 'Coligny']
+Optimal Path:  ['Disaneng', 'Mahikeng', 'Bakerville', 'Lichtenburg', 'Coligny']
+Total Cost:    110 km
+
+--Optimal route
+Disaneng → Mahikeng (25km) → Bakerville (35km) → Lichtenburg (20km) → Coligny (30km)
+                                                              Total = 110 km
